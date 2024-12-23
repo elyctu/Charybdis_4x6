@@ -83,8 +83,8 @@ bindings = <
 MOD {
 bindings = <
 &kp ESC        &kp F1       &kp F2           &kp F3        &kp F4          &kp F5            &kp F6     &kp F7      &kp F8      &kp F9      &kp F11     &kp EQUAL
-&trans         &trans       &kp LC(PG_UP)    &kp LC(T)     &kp LC(PG_DN)   &kp K_VOL_UP      &kp PG_UP  &kp HOME    &kp UP      &kp END     &kp PSCRN   &kp F12
-&kp KP_NLCK    &kp CAPS     &kp LA(LEFT)     &kp LA(TAB)   &kp LA(RIGHT)   &kp K_VOL_DN      &kp PG_DN  &kp LEFT    &kp DOWN    &kp RIGHT   &trans      &trans
+&trans         &kp KP_NLCK  &kp LC(PG_UP)    &kp LC(T)     &kp LC(PG_DN)   &kp K_VOL_UP      &kp PG_UP  &kp HOME    &kp UP      &kp END     &kp PSCRN   &kp F12
+&kp RSHIFT     &kp CAPS     &kp LA(LEFT)     &kp LA(TAB)   &kp LA(RIGHT)   &kp K_VOL_DN      &kp PG_DN  &kp LEFT    &kp DOWN    &kp RIGHT   &trans      &trans
 &kp LCTRL      &kp LALT     &kp DEL           &kp LC(W)     &kp C_PP        &kp K_MUTE        &trans     &trans      &kp LBKT    &kp RBKT    &trans      &trans
                                              &kp DEL       &trans          &tog INT          &trans     &trans
                                                            &trans          &trans            &trans
